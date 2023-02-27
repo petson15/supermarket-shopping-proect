@@ -1,2 +1,2 @@
-# supermarket-shopping-proect
+# supermarket-shopping-project
 supermarket shopping project in c++
